@@ -14,5 +14,8 @@
 
 - Create the Token struct and the different Token types
 - Create the lexer 
-- Create a parser (Used the Packrat parsing)
+- Create a parser (Used the recursive descent parsing parsing)
 - Test your code
+
+## V2
+- Use the packrat parsing
